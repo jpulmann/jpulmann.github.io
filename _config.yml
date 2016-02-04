@@ -1,2 +1,2 @@
-markdown: rdiscount
-highlighter: rb-pygments
+markdown: kramdown
+highlighter: rouge
