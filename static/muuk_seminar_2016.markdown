@@ -24,6 +24,12 @@ algebras over an operad.
 In the first lecture, we give an overview and sketch the background from quantum field theory. 
 Then we start with BV formalism from the algebraic viewpoint: Gerstenhaber brackets, BV algebras and master equation.
 
+####Literature:
+* S. Weinberg: The Quantum Theory of Fields. v. 2, Cambridge University Press, 1996.
+* O. Gwilliam [Factorization algebras and free field theories, PhD thesis](http://people.mpim-bonn.mpg.de/gwilliam/thesis.pdf)
+* K. Poirier and G. Drummond-Cole. [“Berkeley String Topology Workshop”. notes from June 14th, 2011](http://cgp.ibs.re.kr/~gabriel/notes/sum11/strings_jun_14.pdf)
+* D. Fiorenza: [An introduction to the Batalin-Vilkovisky formalism](http://arxiv.org/abs/math/0402057)
+
 -----------
 
 ### Graded geometry and integration over Lagrangian submanifolds
@@ -34,6 +40,12 @@ Then we start with BV formalism from the algebraic viewpoint: Gerstenhaber brack
  in the context of graded manifolds is a divergence, so we will look at 
 the generalization of Stokes theorem. This will enable us to see the 
 gauge invariance as a consequence of the master equation. 
+
+####Literature:
+* A. Cattaneo, F. Schaetz: [Introduction to supergeometry](http://arxiv.org/abs/1011.3401)
+* A. Schwarz: [Geometry of Batalin-Vilkovisky quantization](http://arxiv.org/abs/hep-th/9205088)
+* H. Khudaverdian: [Semidensities on Odd Symplectic Supermanifolds](http://arxiv.org/abs/math/0012256)
+* J. Qiu, M. Zabzine: [Introduction to Graded Geometry, Batalin-Vilkovisky Formalism and their Applications](http://arxiv.org/abs/1105.2680)
 
 -----------
 
@@ -48,6 +60,11 @@ case of Lie algebras and then generalize, to L_\infty A_\infty algebras.
  explain the connection of these homotopy algebras to string field 
 theory.
 
+####Literature:
+* D. Fiorenza: [An introduction to the Batalin-Vilkovisky formalism](http://arxiv.org/abs/math/0402057)
+* H. Kajiura, J. Stasheff: [Homotopy algebras inspired by classical open-closed string field theory](http://arxiv.org/abs/math/0410291)
+* M. Markl: [Loop Homotopy Algebras in Closed String Field Theory](http://arxiv.org/abs/hep-th/9711045)
+
 ----------
 
 ### Minimal model theorem and Feynman graphs for $A_\infty$ algebras
@@ -60,6 +77,7 @@ model can be thought of as on-shell correlation functions of a field theory asso
 
 ####Literature:
 * H. Kajiura: [Noncommutative homotopy algebras associated with open strings](http://arxiv.org/abs/math/0306332)
+* H. Kajiura: [Homotopy Algebra Morphism and Geometry of Classical String Field Theory](http://arxiv.org/abs/hep-th/0112228)
 * B. Zwiebach: [Closed String Field Theory: Quantum Action and the BV Master Equation](http://arxiv.org/abs/hep-th/9206084)
 
 ----------
