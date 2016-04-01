@@ -18,6 +18,7 @@ algebras over an operad.
 -----------
 
 ### Introduction, BV operator as a dual of de Rham differential
+#### Ján Pulmann
 ##### Part I, Friday 26. 2. 2016
 
 ####Abstract:
@@ -33,6 +34,7 @@ Then we start with BV formalism from the algebraic viewpoint: Gerstenhaber brack
 -----------
 
 ### Graded geometry and integration over Lagrangian submanifolds
+#### Ján Pulmann
 ##### Part II, Friday 4. 3. 2016
 
 ####Abstract:
@@ -50,6 +52,7 @@ gauge invariance as a consequence of the master equation.
 -----------
 
 ### Strongly homotopy algebras in the coalgebra description
+#### Ján Pulmann
 ##### Part III, Friday 11. 3. 2016
 
 
@@ -68,6 +71,7 @@ theory.
 ----------
 
 ### Minimal model theorem and Feynman graphs for $A_\infty$ algebras
+#### Ján Pulmann
 ##### Part IV, Friday 18. 3. 2016
 
 ####Abstract:
@@ -82,3 +86,15 @@ model can be thought of as on-shell correlation functions of a field theory asso
 
 ----------
 
+### Operadic cobar construction
+#### Martin Doubek
+##### Part V, Friday 1. 4. 2016
+
+####Abstract:
+We introduce operads and cooperads and focus on the cobar construction. We indicate how A-infinity algebras can be seen as algebras over cobar construction on operad for associative algebras.
+
+####Literature:
+* J.-L. Loday, B. Vallette:: Algebraic Operads, ISBN 978-3-642-30361-6.
+
+
+----------
