@@ -86,7 +86,7 @@ model can be thought of as on-shell correlation functions of a field theory asso
 
 ----------
 
-### Operadic cobar construction
+### Homotopy transfer for algebras over operads, I:  Operadic cobar construction
 #### Martin Doubek
 ##### Part V, Friday 1. 4. 2016
 
@@ -94,7 +94,52 @@ model can be thought of as on-shell correlation functions of a field theory asso
 We introduce operads and cooperads and focus on the cobar construction. We indicate how A-infinity algebras can be seen as algebras over cobar construction on operad for associative algebras.
 
 ####Literature:
-* J.-L. Loday, B. Vallette:: Algebraic Operads, ISBN 978-3-642-30361-6.
+* J.-L. Loday, B. Vallette: Algebraic Operads, ISBN 978-3-642-30361-6.
 
+
+----------
+
+### Homotopy transfer for algebras over operads, II
+#### Martin Doubek
+##### Part VI, Friday 8. 4. 2016
+
+####Abstract:
+Continuation of the previous lecture. We explain how the homotopy transfer results from the previous lectures by Jan Pulmann
+ for A-infinity algebras can be generalized to algebras over cobar construction of an operad. This includes transfer for 
+ L-infinity algebras, which will be replaced by loop homotopy (a.k.a. quantum L-infinity) algebras in upcoming lectures.
+
+####Literature:
+* J.-L. Loday, B. Vallette: Algebraic Operads, ISBN 978-3-642-30361-6.
+
+
+----------
+
+### Homotopy transfer for algebras over operads, III    
+#### Martin Doubek
+##### Part VII, Friday 15. 4. 2016
+
+####Abstract:
+Continuation of the previous lectures. We explain how the homotopy transfer results 
+from the previous lectures by Jan Pulmann for A-infinity algebras can be generalized 
+to algebras over cobar construction of an operad. This includes transfer for L-infinity 
+algebras, which will be replaced by loop homotopy (a.k.a. quantum L-infinity) algebras 
+
+####Literature:
+* J.-L. Loday, B. Vallette: Algebraic Operads, ISBN 978-3-642-30361-6.
+* A. Berglund: [Homological perturbation theory for algebras over operads](http://arxiv.org/abs/0909.3485)
+
+
+----------
+
+### Loop homotopy algebras I
+#### Ján Pulmann
+##### Part VIII, Friday 22. 4. 2016
+
+####Abstract:
+Loop homotopy Lie algebra is a generalization of homotopy Lie algebra which appears in Zwiebach's closed string field theory. We give its definition and describe various alternative ways of describing its structure, notably the description as solutions of quantum master equation.
+
+####Literature:
+* M. Markl: [Loop Homotopy Algebras in Closed String Field Theory](http://arxiv.org/abs/hep-th/9711045)
+* B. Zwiebach: [Closed String Field Theory: Quantum Action and the BV Master Equation](http://arxiv.org/abs/hep-th/9206084)
 
 ----------
