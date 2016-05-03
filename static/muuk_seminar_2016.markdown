@@ -143,3 +143,19 @@ Loop homotopy Lie algebra is a generalization of homotopy Lie algebra which appe
 * B. Zwiebach: [Closed String Field Theory: Quantum Action and the BV Master Equation](http://arxiv.org/abs/hep-th/9206084)
 
 ----------
+
+### Loop homotopy algebras II
+#### Ján Pulmann
+##### Part IX, Friday 6. 5. 2016
+
+####Abstract:
+Last time we described loop homotopy algebras as solutions of quantum master
+equation. This week, we use this to build a deformation retract between the symmetric functions
+on the original vector space of the algebra and its homology. Then, using the homological
+perturbation lemma, we can transfer the whole master action on this homology, getting a minimal model for the original algebra
+
+####Literature:
+* M. Markl: [Loop Homotopy Algebras in Closed String Field Theory](http://arxiv.org/abs/hep-th/9711045)
+* M. Crainic: [On the perturbation lemma, and deformations](http://arxiv.org/abs/math/0403266)
+
+----------
